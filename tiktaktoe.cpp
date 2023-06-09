@@ -142,7 +142,6 @@ void cheak(int x, int y)
 
 void run(void)
 {
-  // Start the game
   start();
 
   int x, y;
@@ -174,7 +173,7 @@ void run(void)
 
 int main()
 {
-  // Run the game
+
   run();
-  //testing comments 
+
 }
